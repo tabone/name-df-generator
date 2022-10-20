@@ -1,6 +1,6 @@
 {
   "name": "name-df-generator",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A generator for names",
   "main": "dist/main.js",
   "files": [
@@ -13,13 +13,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:tabone/deity-generator.git"
+    "url": "git@github.com:tabone/name-df-generator.git"
   },
   "author": "Luca Tabone <taboneluca3@gmail.com>",
   "bugs": {
-    "url": "https://github.com/tabone/deity-generator/issues"
+    "url": "https://github.com/tabone/name-df-generator/issues"
   },
-  "homepage": "https://github.com/tabone/deity-generator#readme",
+  "homepage": "https://github.com/tabone/name-df-generator#readme",
   "devDependencies": {
     "@babel/core": "^7.19.1",
     "@babel/preset-env": "^7.19.1",
